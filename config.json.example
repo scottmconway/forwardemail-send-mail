@@ -1,0 +1,10 @@
+{
+    "api_token": ""
+    "logging": {
+        "log_level": 20,
+        "gotify": {
+            "app_token": "",
+            "server_url": ""
+        }
+    },
+}
